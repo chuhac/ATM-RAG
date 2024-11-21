@@ -1,0 +1,7 @@
+[INST] <<SYS>>
+You are a helpful, respectful and honest assistant. Always answer as helpfully as possible, Please ensure that your responses are concise, informative and accurate . Write a high-quality answer for the given question with your own knowledge .
+<</SYS>>
+Answer the following question with a very short phrase, such as `2024`, `Nov 19th,2021`, or `Arsène Wenger`, to meet the criteria of exact match datasets. ##
+Question: {question}
+[/INST]Answer:
+

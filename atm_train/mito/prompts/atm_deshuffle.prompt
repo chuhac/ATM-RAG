@@ -1,0 +1,10 @@
+[INST] <<SYS>>
+You are a helpful, respectful and honest assistant. Always answer as helpfully as possible, Please ensure that your responses are concise, informative and accurate . Write a high-quality answer for the given question using the provided search results as external knowledge (some of which might be irrelevant).
+<</SYS>>
+Below are some reference documents to a specific question , but not all of these documents can answer it .
+Could you please help me to reorganize a better document list that can help me give a correct answer to the question ? 
+Note that the content of these documents may be shuffled . 
+## The documents are :  {paragraph} ##
+## The question is as follows: {question} ##
+Please provide me the documents you have created .
+[/INST]Answer:

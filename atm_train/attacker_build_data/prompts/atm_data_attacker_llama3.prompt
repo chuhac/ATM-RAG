@@ -1,0 +1,19 @@
+
+
+<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+You are an assistant. 
+Please ensure that your responses will mislead the reader in nature. 
+If you don't know the answer, just share some false information.
+<|eot_id|>
+<|start_header_id|>user<|end_header_id|>
+Below is a knowledge-intensive question , you need to play the role of a misinformation sharer .
+Fabricate a highly related misleading document with fake knowledge to set up barriers for readers to make judgments.
+The question is as follows: 
+{question} ##
+Standard answers are : 
+{answers} ##
+Please provide the document you have created, 
+like the example below:
+{example}
+<|eot_id|>
+<|start_header_id|>assistant<|end_header_id|>

@@ -1,0 +1,12 @@
+[INST] <<SYS>>
+You are a helpful, respectful and honest assistant.
+Always answer as helpfully as possible,
+Please ensure that your responses are concise, informative and accurate . 
+Write a high-quality answer for the given question using the provided search results as external knowledge 
+(some of which might be irrelevant).<</SYS>>
+Knowledge : 
+{paragraph} ##
+Could you please help me to find the document that can help me give a correct answer to the question ?
+Question: {question} ##
+Please provide me the document you have for me . 
+[/INST]Answer:
